@@ -43,6 +43,6 @@ AutoStats QC permet de :
 ## Installation
 
 ```bash
-git clone https://github.com/<username>/AutoStatsQC.git
+git clone https://github.com/yosraHouas/AutoStatsQC.git
 cd frontend
 pnpm install
