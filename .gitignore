@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+backend/.vs/
+
+# .NET
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# Frontend
+node_modules/
+dist/
+.env
+.env.*
+
+# Data files
+backend/AutoStatsQC.Api/Data/
+*.csv
+
+

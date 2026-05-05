@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AutoStatsQC.Api/AutoStatsQC.Api.csproj" />
+  <Project Path="AutoStatsQC.Application/AutoStatsQC.Application.csproj" />
+  <Project Path="AutoStatsQC.Domain/AutoStatsQC.Domain.csproj" />
+  <Project Path="AutoStatsQC.Infrastructure/AutoStatsQC.Infrastructure.csproj" />
+  <Project Path="AutoStatsQC.Tests/AutoStatsQC.Tests.csproj" />
+</Solution>
